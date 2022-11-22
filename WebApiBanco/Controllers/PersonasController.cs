@@ -6,7 +6,7 @@ using WebApiBanco.Filtros;
 using WebApiBanco.Services;
 using WebApiBanco;
 
-namespace WebApiAlumnos.Controllers
+namespace WebApiBanco.Controllers
 {
     [ApiController]
     [Route("api/personas")]  
